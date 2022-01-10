@@ -10,6 +10,10 @@
   <br />
 </div>
 
+## Purchase
+
+The Ragdoll System is available for sale on [Booth](https://vrlabs.booth.pm/items/2911183).
+
 ## Preview
 
 https://user-images.githubusercontent.com/45078979/148767939-1e16cdb3-a6ab-4293-baad-4db5fec2d2d8.mp4
@@ -32,9 +36,6 @@ If you checked 'Sound on collision' but later change the order of the layers in 
 
 [ksivl](https://github.com/ksivl)
 
-## Purchase
-
-The Ragdoll System is available for sale on [Booth](https://vrlabs.booth.pm/items/2911183).
 
 ## Contact us
 
