@@ -12,6 +12,8 @@
 
 ## How it works
 
+https://user-images.githubusercontent.com/45078979/148767939-1e16cdb3-a6ab-4293-baad-4db5fec2d2d8.mp4
+
 [World Physics](https://github.com/VRLabs/World-Physics) enables you to ragdoll your avatar and collide with the world.
 
 ## Install guide
