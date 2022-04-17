@@ -1,13 +1,14 @@
+# Ragdoll System
+
+[![Generic badge](https://img.shields.io/badge/Unity-2019.4.31f1-informational.svg)](https://unity3d.com/unity/whats-new/2019.4.31)
+[![Generic badge](https://img.shields.io/badge/SDK-AvatarSDK3-informational.svg)](https://vrchat.com/home/download)
+[![Generic badge](https://img.shields.io/badge/License-MIT-informational.svg)](https://github.com/VRLabs/Ragdoll-System/blob/main/LICENSE)  
+
+Turn yourself into a floppy ragdoll or falling statue.
+
 <div>
-  <h1>Ragdoll System</h1>
-  <p>
-     Turn yourself into a floppy ragdoll or falling statue.
-  </p>
-  <img src="https://img.shields.io/badge/Unity-2019.4-green.svg?style=flat-square">
-  <br />
-  <div class="main-image">
-    <img src="https://raw.githubusercontent.com/VRLabs/Ragdoll-System/main/Media/Main.jpeg" width="100%">
-  </div>
+  <img src="https://raw.githubusercontent.com/VRLabs/Ragdoll-System/main/Media/Main.jpeg" width="100%">
+  <br/>
 </div>
 
 ## How it works
