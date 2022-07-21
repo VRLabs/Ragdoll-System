@@ -30,12 +30,11 @@ If needed, adjust the colliders after generation using their "Edit Collider" but
 
 Your ragdoll may slightly bounce or jitter locally. Other players do not see this.
 
-If you checked 'Sound on collision' but later change the order of the layers in your FX controller, run the [Layer Weight Tool](https://github.com/VRLabs/Layer-Weight-Tool/) to correctly retarget layer 'ragdollCollide'. Open VRLabs from the menu bar. Click "Apply Weight Controls".
+If using Lyuma's emulator, disable the mirror and shadow clones before testing.
 
 ## Credit
 
 [ksivl](https://github.com/ksivl)
-
 
 ## Contact us
 
