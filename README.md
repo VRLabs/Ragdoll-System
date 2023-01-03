@@ -16,7 +16,7 @@ https://user-images.githubusercontent.com/45078979/148767939-1e16cdb3-a6ab-4293-
 
 ## Purchase
 
-The Ragdoll System is available for sale on [Booth](https://vrlabs.booth.pm/items/2911183).
+The Ragdoll System is available for sale on [Booth](https://vrlabs.booth.pm/items/2911183) and [Gumroad](https://vrlabs.gumroad.com/l/ragdoll-system).
 
 ## Install guide
 
