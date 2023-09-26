@@ -25,6 +25,8 @@ Turn yourself into a floppy ragdoll or falling statue
 
 ## Install guide
 
+https://github.com/VRLabs/Ragdoll-System/assets/76777936/c73da405-2d6a-4927-bec6-d1e9c2a5b675
+
 * Place the Ragdoll.cs script on your avatar and change any settings. Some settings have tooltips for explanation. 
 * Click ``Generate Ragdoll System``.
 * If needed, adjust the colliders after generation using their ``Edit Collider`` buttons.
