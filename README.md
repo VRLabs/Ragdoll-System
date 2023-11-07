@@ -1,5 +1,3 @@
-<div align="center">
-
 # Ragdoll System
 
 [![Generic badge](https://img.shields.io/badge/Unity-2019.4.31f1-lightblue.svg)](https://unity3d.com/unity/whats-new/2019.4.31)
@@ -10,7 +8,10 @@
 
 Turn yourself into a floppy ragdoll or falling statue
 
-![Alt text]()
+![Ragdoll-Freeze](https://github.com/VRLabs/Ragdoll-System/assets/76777936/9bce483a-a70d-43ac-bec5-fa8d0be34f24)
+![Ragdolll](https://github.com/VRLabs/Ragdoll-System/assets/76777936/83d469be-6925-42d8-803e-26a01d0db444)
+
+
 
 ### ⬇️ [Get it on Booth!](https://vrlabs.booth.pm/items/2911183)
 ### ⬇️ [Get it on Gumroad!](https://vrlabs.gumroad.com/l/ragdoll-system)
