@@ -9,8 +9,8 @@
 
 Turn yourself into a floppy ragdoll or falling statue
 
-![Ragdoll-Freeze](https://github.com/VRLabs/Ragdoll-System/assets/76777936/9bce483a-a70d-43ac-bec5-fa8d0be34f24)
-![Ragdolll](https://github.com/VRLabs/Ragdoll-System/assets/76777936/83d469be-6925-42d8-803e-26a01d0db444)
+![Ragdoll-Freeze](https://github.com/VRLabs/Ragdoll-System/assets/76777936/42bb5b1a-05a3-42fe-ba40-e749cbc4a7b4)
+![Ragdolll](https://github.com/VRLabs/Ragdoll-System/assets/76777936/bf5fd723-3971-4858-a430-f125bfde6456)
 
 
 
