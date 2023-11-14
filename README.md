@@ -78,4 +78,3 @@ Material slots:     As many as your avatar has
 
 </div>
 
----
