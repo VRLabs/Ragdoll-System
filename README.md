@@ -13,12 +13,20 @@ Turn yourself into a floppy ragdoll or falling statue
 ![Ragdoll-Freeze](https://github.com/VRLabs/Ragdoll-System/assets/76777936/42bb5b1a-05a3-42fe-ba40-e749cbc4a7b4)
 ![Ragdolll](https://github.com/VRLabs/Ragdoll-System/assets/76777936/bf5fd723-3971-4858-a430-f125bfde6456)
 
-
-
 ### ⬇️ [Get it on Booth!](https://vrlabs.booth.pm/items/2911183)
 ### ⬇️ [Get it on Gumroad!](https://vrlabs.gumroad.com/l/ragdoll-system)
 
 </div>
+
+---
+
+# Warning: To use any toggles or VRCFury/Modular Avatar assets with the Ragdoll system, you will need to do some work yourself. For more information visit the frequently asked questions channel in our [Discord](https://discord.vrlabs.dev/), or watch the two videos below.
+
+## VRCFURY/MA
+https://github.com/user-attachments/assets/bf9b5dc2-1454-4368-899a-c42b2e9e354c
+
+## TOGGLES
+https://github.com/user-attachments/assets/9ac86bcf-5172-4ed2-915d-9b797b6edbbf
 
 ---
 
