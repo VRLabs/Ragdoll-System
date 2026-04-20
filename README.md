@@ -20,57 +20,51 @@ Turn yourself into a floppy ragdoll or falling statue
 
 ---
 
-# Warning: To use any toggles or VRCFury/Modular Avatar assets with the Ragdoll system, you will need to do some work yourself. For more information visit the frequently asked questions channel in our [Discord](https://discord.vrlabs.dev/), or watch the two videos below.
-
-## VRCFURY/MA
-https://github.com/user-attachments/assets/bf9b5dc2-1454-4368-899a-c42b2e9e354c
-
-## TOGGLES
-https://github.com/user-attachments/assets/9ac86bcf-5172-4ed2-915d-9b797b6edbbf
+# Warning: For versions that work with VRCFury/MA or Existing Toggles, make sure you have a version after 2.0.0
 
 ---
 
 ## How it works
 * The system generates a second armature, which is constrained to your humanoid bones
-* The main armature's meshes can be hidden, and this second armature is enabled, allowing this armature to "ragdoll", as well as perform the other features
+* Your armature can be constrained to this second armature allowing this armature to "ragdoll", as well as perform the other features
 
 ## Install guide
 
-https://github.com/VRLabs/Ragdoll-System/assets/76777936/c73da405-2d6a-4927-bec6-d1e9c2a5b675
 
-* Place the Ragdoll.cs script on your avatar and change any settings. Some settings have tooltips for explanation. 
-* Click ``Generate Ragdoll System``.
+https://github.com/user-attachments/assets/1e444d3c-ebd3-4219-92de-e10c9ee94b5b
+
+* Place the Ragdoll.cs script on your avatar and change any settings. Some settings have tooltips for explanation.
+* Select either manual install or VRCFury/MA Install. 
+* Click ``Install Ragdoll System``.
 * If needed, adjust the colliders after generation using their ``Edit Collider`` buttons.
-* Press ``Finish Setup``.
 
 * Your ragdoll may slightly bounce or jitter locally. Other players do not see this.
 * If using Lyuma's emulator, disable the mirror and shadow clones before testing.
 
 ## How to use
 
-* The system automatically adds a ``Ragdoll`` sub menu to your radial menu. 
+* The system automatically adds a ``Ragdoll`` sub menu to a radial menu of your choice. 
 * In this menu, you can select one of the features to start it, and select it again to stop it.
 
 ## Performance stats
 
 ```c++
 Rigidbodies:        13
-Constraints:        23
-Parameter Memory:   3-8 (depending on features)
+Constraints:        80
+Parameter Memory:   4-10 (depending on features)
 Contact Receivers:  2
 Contact Senders:    1
-FX Animator Layers: 3-7 (depending on features)
-Audio Sources:      9
-Colliders:          1
+FX Animator Layers: 3-6 (depending on features)
+Audio Sources:      2
+Colliders:          12
 Particle Systems:   1
 Mesh Renderers:     1
-Skinned Renderers:  As many as your avatar has
-Material slots:     As many as your avatar has
 
 ```
 
 ## Credit
 
+[Tohru](https://github.com/fkrisi11)
 [ksivl](https://github.com/ksivl)
 
 ​
