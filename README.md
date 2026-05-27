@@ -64,8 +64,10 @@ Mesh Renderers:     1
 
 ## Credit
 
-[Tohru](https://github.com/fkrisi11)
 [ksivl](https://github.com/ksivl)
+[Tohru](https://github.com/fkrisi11)
+[lin](https://github.com/oofdesu)
+[JeTeeS](https://github.com/JeTeeS)
 
 ​
 
