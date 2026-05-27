@@ -36,7 +36,7 @@ https://github.com/user-attachments/assets/1e444d3c-ebd3-4219-92de-e10c9ee94b5b
 * Place the Ragdoll.cs script on your avatar and change any settings. Some settings have tooltips for explanation.
 * Select either manual install or VRCFury/MA Install. 
 * Click ``Install Ragdoll System``.
-* If needed, adjust the colliders after generation using their ``Edit Collider`` buttons.
+* If needed, adjust the colliders after generation using the ``Edit Ragdoll`` button.
 
 * Your ragdoll may slightly bounce or jitter locally. Other players do not see this.
 * If using Lyuma's emulator, disable the mirror and shadow clones before testing.
